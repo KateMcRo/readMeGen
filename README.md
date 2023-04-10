@@ -1,9 +1,9 @@
-# Title
+# README Generator
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
   
-  Readme Gen.
+  Command-line application that dynamically generates a professional README.md file from a user's input.
   
   ## Table of Contents
   
@@ -16,11 +16,11 @@
   
   ## Installation
   
-  None.
+  N/A
   
   ## Usage
   
-  Just use it my dude.
+  Type "node index" from the command line to begin the application. Answer questions as prompted.
   
   ## Contributions
   
@@ -64,5 +64,5 @@
   [KateMcRo](https://github.com/KateMcRo)<br>
   Email: katemcro@gmail.com
 
-  Please don't.
+  This user only accepts questions on the 30th of February.
 
